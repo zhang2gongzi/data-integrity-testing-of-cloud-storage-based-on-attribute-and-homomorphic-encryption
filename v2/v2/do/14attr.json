@@ -1,0 +1,134 @@
+{
+  "name": 0,
+  "value": "(1,2)",
+  "children": [
+    {
+      "name": 8360,
+      "value": "(1,2)",
+      "children": [
+        {
+          "name": 5852,
+          "value": "(1,2)",
+          "children": [
+            {
+              "name": 8514,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 4709,
+                  "value": "A"
+                },
+                {
+                  "name": 8250,
+                  "value": "I"
+                }
+              ]
+            },
+            {
+              "name": 3804,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 8925,
+                  "value": "E"
+                },
+                {
+                  "name": 2022,
+                  "value": "J"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": 6021,
+          "value": "(1,2)",
+          "children": [
+            {
+              "name": 3785,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 3007,
+                  "value": "B"
+                },
+                {
+                  "name": 4234,
+                  "value": "K"
+                }
+              ]
+            },
+            {
+              "name": 9346,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 7534,
+                  "value": "F"
+                },
+                {
+                  "name": 4628,
+                  "value": "L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": 4738,
+      "value": "(1,2)",
+      "children": [
+        {
+          "name": 3506,
+          "value": "(1,2)",
+          "children": [
+            {
+              "name": 8933,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 6660,
+                  "value": "C"
+                },
+                {
+                  "name": 1859,
+                  "value": "M"
+                }
+              ]
+            },
+            {
+              "name": 8938,
+              "value": "(1,2)",
+              "children": [
+                {
+                  "name": 4069,
+                  "value": "G"
+                },
+                {
+                  "name": 3431,
+                  "value": "N"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": 7854,
+          "value": "(1,2)",
+          "children": [
+            {
+              "name": 7173,
+              "value": "D"
+            },
+            {
+              "name": 3157,
+              "value": "H"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

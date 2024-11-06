@@ -1,0 +1,12 @@
+{
+  "index": {
+    "fields": [
+      "challengeNumber",
+      "initiator",
+      "filessID"
+    ]
+  },
+  "ddoc": "indexChallengeNumberInitiatorDoc",
+  "name": "indexChallengeNumberInitiator",
+  "type": "json"
+}

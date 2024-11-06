@@ -1,0 +1,194 @@
+{
+  "name": 0,
+  "value": "(2,2)",
+  "children": [
+    {
+      "name": 8360,
+      "value": "(2,2)",
+      "children": [
+        {
+          "name": 5852,
+          "value": "(2,2)",
+          "children": [
+            {
+              "name": 8514,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 4504,
+                  "value": "(2,2)",
+                  "children": [
+                    {
+                      "name": 7732,
+                      "value": "A"
+                    },
+                    {
+                      "name": 8316,
+                      "value": "Q"
+                    }
+                  ]
+                },
+                {
+                  "name": 3242,
+                  "value": "(2,2)",
+                  "children": [
+                    {
+                      "name": 552,
+                      "value": "I"
+                    },
+                    {
+                      "name": 6274,
+                      "value": "R"
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": 3804,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 9340,
+                  "value": "(2,2)",
+                  "children": [
+                    {
+                      "name": 3997,
+                      "value": "E"
+                    },
+                    {
+                      "name": 4345,
+                      "value": "S"
+                    }
+                  ]
+                },
+                {
+                  "name": 1378,
+                  "value": "(2,2)",
+                  "children": [
+                    {
+                      "name": 192,
+                      "value": "J"
+                    },
+                    {
+                      "name": 9175,
+                      "value": "T"
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": 6021,
+          "value": "(2,2)",
+          "children": [
+            {
+              "name": 579,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 6391,
+                  "value": "B"
+                },
+                {
+                  "name": 5544,
+                  "value": "K"
+                }
+              ]
+            },
+            {
+              "name": 7228,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 5879,
+                  "value": "F"
+                },
+                {
+                  "name": 359,
+                  "value": "L"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": 4738,
+      "value": "(2,2)",
+      "children": [
+        {
+          "name": 3506,
+          "value": "(2,2)",
+          "children": [
+            {
+              "name": 6937,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 5871,
+                  "value": "C"
+                },
+                {
+                  "name": 8642,
+                  "value": "M"
+                }
+              ]
+            },
+            {
+              "name": 581,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 8883,
+                  "value": "G"
+                },
+                {
+                  "name": 8723,
+                  "value": "N"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": 7854,
+          "value": "(2,2)",
+          "children": [
+            {
+              "name": 7686,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 2700,
+                  "value": "D"
+                },
+                {
+                  "name": 1291,
+                  "value": "O"
+                }
+              ]
+            },
+            {
+              "name": 879,
+              "value": "(2,2)",
+              "children": [
+                {
+                  "name": 5233,
+                  "value": "H"
+                },
+                {
+                  "name": 9587,
+                  "value": "P"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

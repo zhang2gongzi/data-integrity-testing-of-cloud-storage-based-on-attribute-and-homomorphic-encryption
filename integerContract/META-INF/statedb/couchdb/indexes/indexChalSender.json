@@ -1,0 +1,11 @@
+{
+  "index": {
+    "fields": [
+      "chal",
+      "sender"
+    ]
+  },
+  "ddoc": "indexChalSenderDoc",
+  "name": "indexChalSender",
+  "type": "json"
+}
